@@ -23,6 +23,14 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
         run: python3 scripts/gen_cards.py dist
 
+      - name: Gerar minigame azul e roxo
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install gh-space-shooter
+          python3 scripts/make_game.py "${{ github.repository_owner }}" dist/game.gif
+
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
