@@ -48,7 +48,7 @@ Integrated project for 2026.2. I am turning a women's clothing store website int
 | Stack | Flutter, Dart, Node.js, MySQL, Firebase AI Logic |
 | Scope | App, API and database in a single order flow |
 | Impact | Brings the store catalog into an app and simplifies closing orders through WhatsApp |
-| Repository | Private for now |
+| Repository | [Henders0976/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2](https://github.com/Henders0976/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2) |
 
 </details>
 

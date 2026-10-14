@@ -48,7 +48,7 @@ Projeto integrado de 2026.2. Estou transformando o site de uma loja de roupas fe
 | Stack | Flutter, Dart, Node.js, MySQL, Firebase AI Logic |
 | Escopo | App, API e banco de dados em um único fluxo de pedido |
 | Impacto | Leva o catálogo da loja para um app e simplifica o fechamento do pedido pelo WhatsApp |
-| Repositório | Privado por enquanto |
+| Repositório | [Henders0976/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2](https://github.com/Henders0976/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2) |
 
 </details>
 
