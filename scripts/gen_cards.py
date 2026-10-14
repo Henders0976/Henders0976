@@ -8,6 +8,7 @@ import datetime as dt
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 from collections import defaultdict
 from html import escape
@@ -40,16 +41,24 @@ QUERY = """query($u:String!){user(login:$u){followers{totalCount}
   weeks{contributionDays{date contributionCount}}}}}}"""
 
 
+def fail(msg):
+    print("::error::" + msg.replace("\n", " "), flush=True)  # aparece como anotação na execução
+    sys.exit(1)
+
+
 def fetch():
     req = urllib.request.Request(
         "https://api.github.com/graphql",
         data=json.dumps({"query": QUERY, "variables": {"u": USER}}).encode(),
         headers={"Authorization": "bearer " + os.environ["GITHUB_TOKEN"], "Content-Type": "application/json"},
     )
-    with urllib.request.urlopen(req, timeout=30) as r:
-        body = json.load(r)
-    if "errors" in body or not body.get("data", {}).get("user"):
-        sys.exit("GraphQL error: " + json.dumps(body)[:500])
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            body = json.load(r)
+    except urllib.error.HTTPError as e:
+        fail(f"HTTP {e.code}: {e.read().decode()[:300]}")
+    if "errors" in body or not (body.get("data") or {}).get("user"):
+        fail("GraphQL: " + json.dumps(body)[:300])
     return body["data"]["user"]
 
 
