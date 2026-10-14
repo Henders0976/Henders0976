@@ -19,7 +19,6 @@
 
 <br>
 
-<img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Henders0976&style=flat-square&color=7C3AED&labelColor=1E1B4B&label=VISUALIZACOES">
 <img alt="Seguidores" src="https://img.shields.io/github/followers/Henders0976?style=flat-square&color=4C1D95&labelColor=1E1B4B">
 
 </div>
@@ -135,26 +134,6 @@ Projeto integrado de 2026.2. Estou transformando o site de uma loja de roupas fe
 <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Henders0976&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED">
 <img height="180" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Henders0976&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
 <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henders0976&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9">
-
-</div>
-
----
-
-## Troféus
-
-<div align="center">
-
-<img alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Henders0976&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12">
-
-</div>
-
----
-
-## Atividade de contribuição
-
-<div align="center">
-
-<img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Henders0976&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true">
 
 </div>
 
