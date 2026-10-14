@@ -163,15 +163,11 @@ O app também tem um assistente de estilo com IA, feito com GenUI e Firebase AI 
 
 ---
 
-## Cobrinha de contribuições
+## Minigame
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-snake.svg">
-  <img alt="Cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-snake.svg">
-</picture>
+<img alt="Minigame de nave espacial sobre o gráfico de contribuições" src="https://raw.githubusercontent.com/henrique-molinari/henrique-molinari/main/game.gif" width="872">
 
 </div>
 

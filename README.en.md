@@ -163,15 +163,11 @@ The app also has an AI style assistant, built with GenUI and Firebase AI Logic, 
 
 ---
 
-## Contribution Snake
+## Minigame
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-snake.svg">
-  <img alt="Snake crawling through the GitHub contribution graph" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-snake.svg">
-</picture>
+<img alt="Spaceship minigame over the contribution graph" src="https://raw.githubusercontent.com/henrique-molinari/henrique-molinari/main/game.gif" width="872">
 
 </div>
 
