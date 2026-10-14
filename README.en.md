@@ -64,9 +64,10 @@ I think about software as a product. Before choosing the technology, I try to un
 
 | Domain | Where I applied it | Details |
 |---|---|---|
-| Mobile apps | RV Label, in progress | Flutter and Dart with object oriented design |
+| Cross platform apps | RV Label | Flutter and Dart for Android, iOS, web and Windows, with object oriented design |
 | Web interfaces | IoT Integrated Project | React 18, HTML and CSS, light and dark themes, responsive layout |
-| APIs and data | RV Label, in progress | Node.js API and MySQL catalog |
+| APIs and data | RV Label | Node.js API with MySQL, JWT login and an admin panel |
+| AI assistant | RV Label | GenUI and Firebase AI Logic in the app's style assistant |
 | IoT and serial communication | IoT Integrated Project | Arduino UNO, 2 channel relay and Web Serial API at 9600 baud |
 | Screen design | IoT Integrated Project | Screens designed in Figma and implemented directly in code |
 
@@ -95,20 +96,22 @@ The interface offers per lamp on and off, an all at once action, intensity contr
 </details>
 
 <details>
-<summary><b>RV Label, Flutter app for a women's clothing store</b></summary>
+<summary><b>RV Label, Flutter app with a site and an API for a women's clothing store</b></summary>
 
 <br>
 
-Integrated project for 2026.2. I am turning a women's clothing store website into an object oriented Flutter app, with a MySQL catalog, a Node.js API and orders closed through WhatsApp.
+Integrated project for 2026.2, at version 1.2.1. I am building a complete system for the RV Label store and its Essence collection. The Flutter app, for Android, iOS, web and Windows, has a storefront, a bag and order checkout through WhatsApp. A React site and a Node.js API with MySQL complete the set, and the store owner manages orders, prices, stock and what appears in the store through a panel with login.
 
 | Item | Details |
 |---|---|
-| Stack | Flutter, Dart, Node.js, MySQL |
-| Scale | App, API and database in a single order flow |
-| Performance | In progress |
-| Security | In progress |
-| Impact | Brings the store catalog into an app and simplifies closing orders through WhatsApp |
+| Stack | Flutter and Dart, React, Node.js, MySQL, Firebase AI Logic |
+| Scale | App for 4 platforms, site and API in the same repository, initial catalog of 15 pieces |
+| Performance | The app keeps a copy of the catalog and keeps working if the API fails; scroll linked animations |
+| Security | Admin login with JWT, encrypted passwords, per IP rate limit on orders and credentials kept out of git |
+| Impact | Brings the store into an app, with order tracking for customers and a panel for the owner to manage the storefront |
 | Repository | Private for now |
+
+The app also has an AI style assistant, built with GenUI and Firebase AI Logic, and a privacy and terms screen following LGPD. Automated tests in Dart and Node run on GitHub Actions.
 
 </details>
 
@@ -122,7 +125,7 @@ Integrated project for 2026.2. I am turning a women's clothing store website int
 |---|---|
 | Education | Systems Analysis and Development at UNIFEOB, evening program |
 | IoT Integrated Project, 2026.1 | Prototype delivered by a team, covering hardware, firmware and a web interface |
-| Integrated Project, 2026.2 | RV Label in development, from the database to the app |
+| Integrated Project, 2026.2 | RV Label at version 1.2.1, with app, site and API |
 
 </div>
 
@@ -180,9 +183,9 @@ Integrated project for 2026.2. I am turning a women's clothing store website int
 learning:
   - Flutter and Dart with object oriented design
 building:
-  - RV Label, a women's clothing store app
+  - RV Label, a Flutter app with a React site and a Node.js API
 exploring:
-  - Integration between app, Node.js API and MySQL database
+  - Firebase AI Logic and GenUI in the app's style assistant
 open_to:
   - Software development internship
   - Team projects and open source
