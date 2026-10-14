@@ -34,7 +34,7 @@ LABELS = {
 }
 
 QUERY = """query($u:String!){user(login:$u){followers{totalCount}
- repositories(ownerAffiliation:OWNER,privacy:PUBLIC,isFork:false,first:100){totalCount nodes{stargazerCount
+ repositories(ownerAffiliations:OWNER,privacy:PUBLIC,isFork:false,first:100){totalCount nodes{stargazerCount
   languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name}}}}}
  pullRequests{totalCount} issues{totalCount}
  contributionsCollection{totalCommitContributions contributionCalendar{totalContributions
