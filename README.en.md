@@ -20,6 +20,7 @@
 <br>
 
 <img alt="Followers" src="https://img.shields.io/github/followers/Henders0976?style=flat-square&color=4C1D95&labelColor=1E1B4B">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/Henders0976/Henders0976?style=flat-square&color=7C3AED&labelColor=1E1B4B&label=last+commit">
 
 </div>
 
@@ -131,9 +132,29 @@ Integrated project for 2026.2. I am turning a women's clothing store website int
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Henders0976&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED">
-<img height="180" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Henders0976&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henders0976&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9">
+<img height="190" alt="GitHub stats" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-stats.en.svg">
+<img height="190" alt="Contribution streak" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-streak.en.svg">
+<img height="190" alt="Top languages" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-langs.en.svg">
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img alt="GitHub trophies" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-trophies.en.svg">
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img alt="Activity graph" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-activity.en.svg">
 
 </div>
 

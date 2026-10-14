@@ -20,6 +20,7 @@
 <br>
 
 <img alt="Seguidores" src="https://img.shields.io/github/followers/Henders0976?style=flat-square&color=4C1D95&labelColor=1E1B4B">
+<img alt="Último commit" src="https://img.shields.io/github/last-commit/Henders0976/Henders0976?style=flat-square&color=7C3AED&labelColor=1E1B4B&label=ultimo+commit">
 
 </div>
 
@@ -131,9 +132,29 @@ Projeto integrado de 2026.2. Estou transformando o site de uma loja de roupas fe
 
 <div align="center">
 
-<img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Henders0976&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED">
-<img height="180" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Henders0976&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-<img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henders0976&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9">
+<img height="190" alt="Estatísticas do GitHub" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-stats.pt.svg">
+<img height="190" alt="Sequência de contribuições" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-streak.pt.svg">
+<img height="190" alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-langs.pt.svg">
+
+</div>
+
+---
+
+## Troféus
+
+<div align="center">
+
+<img alt="Troféus do GitHub" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-trophies.pt.svg">
+
+</div>
+
+---
+
+## Atividade de contribuição
+
+<div align="center">
+
+<img alt="Gráfico de atividade" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-activity.pt.svg">
 
 </div>
 
