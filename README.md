@@ -5,32 +5,32 @@
 
 <br><br>
 
-<img alt="Henderson Lerio Grossi, Desenvolvedor Full Stack" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-header.pt.svg" width="100%">
+<img alt="Henderson Lerio Grossi, Desenvolvedor Full Stack" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-header.pt.svg" width="100%">
 
 <br><br>
 
-<img alt="Painel de apresentação de Henderson Lerio Grossi" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-panel.pt.svg" width="100%">
+<img alt="Painel de apresentação de Henderson Lerio Grossi" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-panel.pt.svg" width="100%">
 
 <br><br>
 
-<img alt="Calendário de contribuições" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-calendar.pt.svg" width="100%">
+<img alt="Calendário de contribuições" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-calendar.pt.svg" width="100%">
 
 <br>
 
-<img alt="Visão geral da atividade" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-overview.pt.svg" width="100%">
+<img alt="Visão geral da atividade" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-overview.pt.svg" width="100%">
 
 <br>
 
-<img alt="Sequência de contribuições" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-streak.pt.svg" width="100%">
+<img alt="Sequência de contribuições" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-streak.pt.svg" width="100%">
 
 <br>
 
-<img alt="Estatísticas do GitHub" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-stats.pt.svg" width="49%">
-<img alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/github-langs.pt.svg" width="49%">
+<img alt="Estatísticas do GitHub" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-stats.pt.svg" width="49%">
+<img alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-langs.pt.svg" width="49%">
 
 <br><br>
 
-<img alt="Minigame com as minhas contribuições do GitHub" src="https://raw.githubusercontent.com/Henders0976/Henders0976/output/game.gif" width="100%">
+<img alt="Minigame com as minhas contribuições do GitHub" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/game.gif" width="100%">
 
 </div>
 
@@ -48,7 +48,7 @@ Projeto integrado de 2026.2. Estou transformando o site de uma loja de roupas fe
 | Stack | Flutter, Dart, Node.js, MySQL, Firebase AI Logic |
 | Escopo | App, API e banco de dados em um único fluxo de pedido |
 | Impacto | Leva o catálogo da loja para um app e simplifica o fechamento do pedido pelo WhatsApp |
-| Repositório | [Henders0976/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2](https://github.com/Henders0976/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2) |
+| Repositório | [henderson-grossi/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2](https://github.com/henderson-grossi/Projeto-Integrado-Modelagem-e-Desenvolvimento-de-Sistemas-UNIFEOB-2026.2) |
 
 </details>
 
@@ -64,7 +64,7 @@ Sistema de iluminação para sala de aula que liga e desliga lâmpadas pelo comp
 | Stack | Arduino UNO, C++, React 18, Web Serial API, HTML e CSS |
 | Escopo | 2 canais de relé independentes, equipe de 4 estudantes |
 | Desempenho | Comunicação serial a 9600 baud, com confirmação de estado a cada comando |
-| Repositório | [Henders0976/Projeto-Integrado-IoT---UNIFEOB-2026.1](https://github.com/Henders0976/Projeto-Integrado-IoT---UNIFEOB-2026.1) |
+| Repositório | [henderson-grossi/Projeto-Integrado-IoT---UNIFEOB-2026.1](https://github.com/henderson-grossi/Projeto-Integrado-IoT---UNIFEOB-2026.1) |
 
 </details>
 
@@ -73,7 +73,7 @@ Sistema de iluminação para sala de aula que liga e desliga lâmpadas pelo comp
 <br>
 
 <a href="mailto:hendersonleriogrossi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Enviar_mensagem-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Henders0976"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Henders0976-312E81?style=for-the-badge&logo=github&logoColor=white"></a>
-<img alt="Seguidores" src="https://img.shields.io/github/followers/Henders0976?style=for-the-badge&color=4C1D95&labelColor=1E1B4B">
+<a href="https://github.com/henderson-grossi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-henderson--grossi-312E81?style=for-the-badge&logo=github&logoColor=white"></a>
+<img alt="Seguidores" src="https://img.shields.io/github/followers/henderson-grossi?style=for-the-badge&color=4C1D95&labelColor=1E1B4B">
 
 </div>

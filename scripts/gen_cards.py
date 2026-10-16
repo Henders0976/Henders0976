@@ -13,7 +13,7 @@ import urllib.request
 from collections import defaultdict
 from html import escape
 
-USER = os.environ.get("GH_USER", "Henders0976")
+USER = os.environ.get("GH_USER", "henderson-grossi")
 BG, BORDER, TITLE, ACCENT, TEXT, MUTED = "#0D1117", "#4C1D95", "#A78BFA", "#7C3AED", "#C9D1D9", "#8B949E"
 PALETTE = ["#A78BFA", "#7C3AED", "#6366F1", "#818CF8", "#C4B5FD", "#4C1D95"]
 FONT = "Montserrat, 'Segoe UI', Arial, sans-serif"
